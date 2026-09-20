@@ -25,4 +25,4 @@ jobs:
 
 
       - name: sedang tes pake java 17 dan pake maven
-        run: mvn test -Dtest=CalculatorTest
+        run: mvn test -Dtest=CalculatorFailedTest
